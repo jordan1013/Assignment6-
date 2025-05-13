@@ -1,3 +1,5 @@
+// I made the character not able to jump infinitely in midair (code is at very beginning) and I keep the character grounded by adding some code at line 30. 
+
 public Transform groundCheck;
 public float groundCheckRadius = 0.1f;
 public LayerMask groundLayer;

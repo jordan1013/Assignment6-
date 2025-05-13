@@ -1,1 +1,2 @@
 # Assignment6-
+I modified the script by ---. Challenges I faced were putting the assets in the right layers, but I searched up how to do this and I figured out how it's done. I also struggled a bit deciding which assets I should put in my scene, but eventually I decided to keep some special steps where the character would jump onto. I am most proud of the look of my sprite because I think it is fairly detailed. 
